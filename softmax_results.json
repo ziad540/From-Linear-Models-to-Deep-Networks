@@ -1,0 +1,8 @@
+{
+    "training_time_builtin": 0.0007910728454589844,
+    "test_accuracy_builtin": 0.9076428413391113,
+    "test_loss_builtin": 0.3349599540233612,
+    "test_accuracy_manual": 0.9076428413391113,
+    "test_loss_manual": 0.33495983481407166,
+    "train_time_manual": 8.376067876815796
+}
