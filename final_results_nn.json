@@ -1,0 +1,14 @@
+{
+    "best_lr": 0.01,
+    "best_batch_size": 32,
+    "best_architecture": [
+        512,
+        256,
+        128,
+        64
+    ],
+    "epochs": 10,
+    "training_time_sec": 198.97,
+    "test_accuracy_percent": 97.8,
+    "test_loss": 0.0758
+}

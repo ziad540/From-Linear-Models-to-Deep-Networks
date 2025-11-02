@@ -1,0 +1,10 @@
+{
+    "model_type": "CNN",
+    "optimizer": "adam",
+    "activation": "leaky_relu",
+    "batch_size": 8,
+    "epochs": 10,
+    "training_time_sec": 465.71,
+    "test_accuracy_percent": 98.4,
+    "test_loss": 0.0494
+}
